@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @QueenofParts
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 QueenofParts/QueenofParts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +12,14 @@ I am a national level road racer in the Sports Car Club of America. I drive a 19
 I am also kind of a space geek.  Do you have a favorite NASA mission or other space related project?  I do!  Mine is the PSYCHE Mission which launched on 
 10/12/2023. I have attended lectures about it and even flew to Florida for the launch, however it was delayed by a week, and I was unable to stay that long. 
 
-I currently have 4 Volunteer gigs.  I drive the pace car in my region of the SCCA. I work at my local wildlife rescue.  I have qualified to get a rehabber's license in my state and will soon be qualified to work with rabies vector creatures like bats, racoons and skinks. I volunteer at an organization called Sheepdog Wolfhound which helps families, school districts and law enforcement protect minors from exploitation on the internet.  I also sit on the board of directors of a car club, Fiat Club of America.
+I currently have 4 Volunteer gigs:  
+I drive the pace car in my region of the SCCA. This club is completely run by volunteers, without whom none of us could race! Thanks workers! 
+
+I work at my local wildlife rescue.  In my work there I have qualified for a rehabber's license in my state and will soon be qualified to work with rabies vector creatures like bats, racoons and skinks. 
+
+I volunteer at an organization called Sheepdog Wolfhound which helps families, school districts and law enforcement protect minors from exploitation on the internet.  Sometimes I work with families directly, or offer my business and financial experience to their directors.
+
+I serve on the board of directors of a car club, Fiat Club of America. Here I offer business and financial advice. I have received the Helle Nice award twice from FCA for promoting women in racing. 
 
 Maybe this course will open more doors for me in the automotive industry! Or maybe it will bring some opportunities in a space related field. Perhaps I can use my newfound skills to solve problems for my family business or help any of my volunteer organizations. 
 
